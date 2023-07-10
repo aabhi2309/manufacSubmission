@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+table{
+  border: 1px solid;
+  margin: 30px auto;
+}
+th, td {
+  border: 1px solid;
+  padding: 10px 20px;
+}
+.mL-10{
+  margin-left: 10px;
+}
+
+.mT-20{
+  margin-top: 20px;
+}
+.p-20{
+padding: 20px;
+}
+.d-flex{
+  display: flex;
+  justify-content: space-between;
+}
