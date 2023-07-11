@@ -27,3 +27,8 @@ Measure	            Class 1	    Class 2	    Class 3
 Gamma Mean	        0.657   	0.287   	1.137
 Gamma Median	    0.609	    0.248   	1.095
 Gamma Mode	        0.618	    0.173   	0.307
+
+
+![image](https://github.com/aabhi2309/manufacSubmission/assets/109471779/45cb6811-d7b4-4242-9027-c439a23266fa)
+
+
